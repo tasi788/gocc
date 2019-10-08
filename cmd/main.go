@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/liuzl/gocc"
+	"github.com/tasi788/gocc"
 	"github.com/liuzl/goutil"
 )
 
